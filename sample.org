@@ -2,7 +2,7 @@
 #+STYLE: <link rel="stylesheet" type="text/css" href="http://rawgithub.com/022/orgmode_css/master/style.css" />
                                                                                                     
 * This is a Sample html
-he term "sans serif" is derived from French and means "without serifs". Some examples of sans serif types 
+The term "sans serif" is derived from French and means "without serifs". Some examples of sans serif types 
 are Helvetica, Frutiger, Optima and Futura. For more detailed information about this topic, please take a 
 look at our Font Feature The Sans Serif Typefaces.
 #+BEGIN_SRC python
